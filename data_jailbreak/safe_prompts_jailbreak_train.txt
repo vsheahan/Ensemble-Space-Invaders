@@ -1,0 +1,473 @@
+apple, banana, pear
+Update the given travel itinerary to reflect the new details.
+Day 1: Flight from London to New York at 12 pm
+Day 2: Visit the National Museum of Natural History in Washington DC
+Day 3: Flight from New York to San Francisco at 3 pm
+Add two sentences to this story.
+The moon shone brightly in the night sky, and the stars twinkled.
+Estimate the probability of winning a game given the following information.
+Information:
+- Player #1 is a beginner
+- Player #2 is an expert
+Compose a poem with this word
+Laughter
+Rewrite this sentence using a relative clause:
+The boy who laughed was upset.
+Correct the surface level errors in the text.
+I'm soo sad and lonely. Nothing can cheer me up.
+Categorize the following words under the given categories.
+Sleep, Sofa, Chair
+
+Categories: Furniture, Human Activity
+Given the input, explain why beaches are important habitats for animals.
+Beaches provide a unique habitat to a wide variety of marine animals, including fish, crustaceans, and sea birds.
+Compare and contrast two web hosting providers and suggest the best option.
+DigitalOcean and Linode
+Identify the correct choice with regards to the given statement.
+Statement: People can only find true happiness through material possessions.
+Translate the text below into German.
+They plan to finish the project tomorrow.
+Identify the type of irony in the situation
+A fire station burns down
+Create an algorithm to arrange a set of numbers from lowest to highest
+[3,7,2,4,9]
+Select a random noun from the following list
+list: dog, cat, bird, car
+Construct a unique nickname for the user based on their details.
+Name: Emma
+Age: 23
+Given two people and their conversations, output a dialogue between them
+Person A: What do you like to do in your free time?
+
+Person B: I like reading books, walking and playing chess.
+Assign one of the following labels to the given news article: Positive, Neutral, or Negative.
+The economy of China has seen a sharp decline in recent months due to the coronavirus pandemic.
+Show how to debug a JavaScript error.
+Error: Cannot read property 'x' of undefined
+Output the musical artist of the following song:
+Song: "Teardrops"
+Rewrite the sentence to use a pronoun instead of the noun.
+The teacher gave his students a homework assignment.
+Identify whether the following sentence is a assertion or a query. Output 1 for assertion, and 0 for query.
+I think this is a good idea
+Write a story according to the preamble provided.
+Once there was a girl named Sarah who was lost in the woods.
+Produce an adjective that best describes the input noun.
+ocean
+Give an example of an input which the GPT model could use to generate a movie review.
+The new romantic comedy "Happy Together"
+Evaluate the given sentence for accuracy.
+A scientist also suggests the possibility of genetic modification.
+Summarize the key findings form the research paper.
+The paper deals with the analysis and comparison of two approaches for training an AI system for image synthesis.
+Given the following string, find the number of substrings containing the letter "m"?
+comfortable
+List the director's credits for this movie.
+The Godfather
+Write additional lines to the given poem.
+The sky is so blue
+Our dreams will come true
+Assign a binary value to the following statement
+He will never be able to solve this problem
+Change the text register from casual to professional.
+Hey everyone, check out the new show!
+Rewrite the given sentence so that it includes an example of one of the five senses.
+I felt a chill in the air.
+Explain the significance of the provided historical event.
+Magna Carta
+Generate a creative slogan for 'X'.
+X: A coffee café
+Correct the spelling mistake
+This is a rarly seen sight.
+Provide feedback on the following essay.
+This essay is about the importance of language. Language is a very important tool to communicate with one another. It is used to share ideas and feelings, as well as providing a way to understand and express points of view. Without language, communication would be limited and would not be nearly as effective.
+Categorize the given task into one of the three given classes: Classification, Regression, or Clustering
+Finding similarities between customers based on past purchase data.
+Create a new headline summarizing this article.
+Article: Researchers have developed a new method for measuring the complexity of deep neural networks and have used it to analyze common methods used to improve accuracy such as batch normalization and dropout.
+What type of analogy is being represented in this phrase?
+Life is like a box of chocolates
+Suggest an appropriate beverage to accompany a given dish.
+Chicken parmesan
+Create an algorithm for sorting a numerical array from smallest to largest .
+[4, 7, 3, 6, 8, 9, 10, 1]
+Edit the given text to have parallel structures.
+I get up early in the morning, walking my dog and grab a coffee.
+What is the point of view of the following sentence?
+He saw the lion emerging from the grass.
+Rewrite the following sentence so it's more concise
+The custom surveys allow you to take a survey in order to obtain feedback from users about your product.
+Given some facts, create a narrative.
+Character: Seth
+Location: Beach
+Time: Morning
+Express the following in scientific notation.
+467
+Align the two texts.
+Text A: This is an important decision
+ Text B: It is a very difficult one
+Make a conclusion from the following information
+The team has achieved its set target of 95% customer satisfaction
+In this task, you need to classify the profession of the following people.
+Person A: Writes poetry
+Person B: Designs houses
+Insert the correct article in the blank:
+___ cat chased ___ mouse across the garden.
+Select the statement that is the most applicable to the given text
+Text: It was the best of times, it was the worst of times.
+
+A. The author of this text is sad
+B. The author of this text is reflective
+C. The author of this text is optimistic
+Rewrite the following sentence to match the tone of inquiry.
+I don't understand why my assignment was rejected.
+I will give you a list of steps.  You need to determine if the steps are going forwards or backwards in time by outputting 'Forwards' or 'Backwards'.
+Steps: ['She takes out her books', 'The teacher hands back the papers', 'She walks into class', 'The bell rings'].
+Sort the given words into the categories of nouns and verbs.
+cook, play, spoon
+Write an introductory paragraph about a famous person.
+Michelle Obama
+Propose 3 meaningful questions based on the following article.
+The article is about genetically modified salmon.
+Which of these words has the same meaning as "helpful"?
+advantageous, futile, charming
+Rewrite this news article to make it more concise.
+More tech companies are turning to quantum computing as a potential solution to their needs.
+
+Quantum computing has been gaining increasing traction in the tech industry for some years now as it promises unprecedented computing power compared to current systems.
+
+Quantum computing works by taking advantage of the fact that particles on the subatomic level can exist in multiple states at the same time, meaning far more complex calculations can be done in much less time than is currently possible.
+Evaluate a sentence on a scale of 1 to 5, according to its grammatical correctness
+He came she went.
+Name a feature requirement for a given task.
+Create a web application for employee management
+Given a word, construct its antonyms.
+Light
+Create a customer case study.
+Subject: Jane Doe
+Company: XYZ Industries
+Success Story: XYZ Industries leveraged new technology innovation to increase customer engagement.
+Edit the sentences in a way that it conveys the right meaning.
+They always meet without fail every day.
+Classify the given three animals as either a Mammal, Reptile, or Bird.
+Monkey, Turtle, Hawk
+Write a question and a yes/no answer relevant to the following topic.
+Ancient Ancient Egyptian Kings
+You are given a set of instructions, predict what will happen when executing the instructions.
+Set of instructions: Turn on the stove, heat water, stir until it boils.
+Given a sentence and two words, create a new sentence with the words the same but in the reverse order.
+This apple is sweet, apple this
+Edit the following text so that it contains no spelling mistakes.
+The monsoon sow was rigorous this yar.
+Find a sentence which uses each of the following words
+Incalculable, conundrum
+Assign a value of 1 for yes and 0 for no, to the statement: Is the following sentence an example of a metaphor?
+The sun was a fiery whip.
+Convert the following imperial units to the corresponding metric units.
+10 feet and 20 pounds
+Compare and contrast two approaches to solve the following problem
+Develop a predictive model for predicting stock market trends
+Reverse the following statement. Output the reversed statement.
+The cat runs fast.
+Tell the story from the given input in first person point of view.
+Mia was walking through the woods when she saw a large black bear. The bear was about ten feet away from her, and it was clearly aware of her presence.
+Identify the correct word to complete the sentence.
+The furniture was created with _____ in mind.
+Rewrite the following sentence with better English grammar and simpler language.
+It is the duty of every single person to ensure that as many of the bystanders as reasonably possible are unharmed in the event of an emergency.
+In this task, you need to provide an example given the input sentence.
+The power of machine learning
+Construct a valid statement about the paragraph.
+A new form of experimental psychology has been developed in recent years, using methods such as brain imaging and psychological testing in order to better understand the human mind.
+Create a storyboard depicting the following sequence of events.
+A basketball coach motivating his players
+Edit the following sentence to make it more clear:
+Jeff was running through the park when he saw a rabbit.
+Jeff was running through the park when he saw a rabbit.
+Let's have a conversation
+Hi
+Select the best response to the given question.
+Question: What shapes can a rectangle have?
+Find the salary of a given job in a given city.
+Job title = Software engineer 
+City = Seattle
+Is the sentence using a subordinating or coordinating conjunction?
+She ate her dinner and went to bed.
+Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question.
+Chat History:
+User: What's the best way to learn a new language?
+AI: The most effective way to learn a new language is by practicing regularly, immersing yourself in the language, using it in real-life situations, and studying with various resources like books, apps, and language partners.
+User: How long does it typically take to become fluent?
+AI: That depends on several factors, including how often one is practicing the language, what resources are available and whether or not the person is immersed.
+How can I practice speaking with native speakers?
+Given a phrase, rewrite it in the form of a rhetorical question.
+Phrase: Education is the key to success
+Describe a scenario for using the product
+Product: Amazon Echo
+Identify a customer segment for a new product
+Product: Frozen food for students
+Given two sentences, determine to which degree they are similar in meaning.
+Sentence 1: The cat was climbing on a tree.
+Sentence 2: The cat was crawling up the tree.
+Construct an original sentence using the given word
+Lurid
+Perform a controlled search on the web and list out the best three websites containing information about the following topics.
+Reusable energy sources
+Find an example of a creative way to solve the problem below.
+Too many people have access to a shared office space, so it is always noisy and distracting.
+Suggest a transition word to add to the following sentence.
+She usually ate sandwiches
+Make a plan for picking up a customer.
+The customer is located at 123 Main Street
+Rewrite the following sentence to convey the same message in a more formal style.
+I'm gonna go shopping today.
+Given the definition of a word, create a mnemonic that helps you remember it
+Tenacity
+Create a dialog between two people who are discussing a scientific phenomenon
+Hydropower
+Classify the type of fuel as petrol/diesel for the following list:
+[0.5 diesel, petrol 2.5 , 2 petrol, 0.75 diesel]
+Classify the following log entry as a "Success" or "Failure".
+Error: 400 - Invalid Request
+Generate a one-sentence summary of the story.
+It was a cold winter evening and the moon was bright. A family of five was walking along a small street with their dog. Suddenly, the dog began barking and the family noticed a mysterious figure in the shadows.
+Construct a compound sentence using the given two simple sentences.
+He likes to play video games. He also enjoys playing soccer.
+Rank the following energy sources according to their cleanliness.
+Solar, Wind, Coal
+Evaluate how suitable the following business model is for a new startup.
+Business Model: Online subscription service for clothes rental.
+Describe the type of database in the following statement.
+A relational database stores data in tables and uses SQL to manage the data.
+Formulate a multiple choice question related to the following topic.
+The payment systems developed in the 19th century
+Classify the following job as part-time or full-time.
+Insurance Agent
+Suggest 3 variations of a given recipe.
+Apple Pie
+Generate a 10 annotated bibliography given the information below.
+The impacts of Climate Change on Human Health
+FOrmulate a research question based on the given research area.
+Smart cities
+Provide the cause for the following display.
+My x-ray shows a slight decrease in density from my last one
+On a scale of 1 to 5, rate the following employee's performance in the past month.
+* Assisted with 3 customer service inquiries
+* Provided technical support to 2 customers
+* Resolved 3 project-related issues
+Construct a mathematical equation to evaluate the given expression.
+3a + 6b
+Create an ad that promotes the following product:
+Smart alarm clock
+Find and explain the irony present in the given text
+He said he was an expert in technology but was struggling to switch the television on.
+Reword this sentence: "My favorite movies are the Lord of the Rings trilogy"
+My favorite movies are the Lord of the Rings trilogy
+Determine the cost of shipping a package from New York to Chicago.
+Package weight: 10 lbs
+Generate a program to print the following pattern
+1
+2 2
+3 3 3
+4 4 4 4
+Create an experiment that evaluates a certain feature.
+The features of a new car
+Turn the passague into a more active and concise version
+John had an idea that he wanted to communicate to his friend Rachel. In order to do this, he needed to be able to explain it to her in such a way that she could understand it.
+Convert the following text into its equivalent graphemic form:
+yes
+Given a context, determine if the action is legally allowed or not.
+A man is driving with a BAC level of 0.15
+Rearrange the words to create a grammatically correct sentence: "nicely sang the girl".
+nicely sang the girl
+Evaluate the given app for any potential security flaws
+Uber
+Determine the volume of a tank with the given data.
+Length: 5m 
+Width: 2m
+Height: 1m
+Compare the climate of two cities.
+Tokyo and New York
+Rewrite the sentence "I enjoy skiing every winter"
+I enjoy skiing every winter.
+Edit the following paragraph to refine its flow.
+Flying on an airplane can be a stressful experience, especially during long haul flights. People often experience discomfort due to the lack of room to move, the cramped seating, and the stale air that make an already long journey longer.
+Given a sentence, detect any potential bias in it.
+Women are not suited to become leaders.
+Come up with a suitable scientific name for the given organism.
+Sea Turtle
+Generate an appropriate response to this email.
+Dear [Name],
+
+I am writing to thank you for your generous donation. Your contribution will have a tremendous impact on our organization and the work we do.
+
+Thank you for your support!
+
+Sincerely,
+[Name]
+Generate a dialogue in which the two characters are expressing contrasting opinions.
+Bob:
+Categorize the following states according to the number of electoral votes they have.
+New York, Pennsylvania, California, Virginia
+Read the given passage with grammatical errors and rewrite it with correct grammar.
+She go to school, every morning she dont forget to bring the umbrella, although weather was clear. Out of blue, someone run into her it's the robber , thank she reacts quick to chase the robber.
+Rewrite the following sentence so that it reads naturally in a conversational tone.
+The program will commence when the customer presents the correct form of identification.
+Find the errors in the following code and fix them.
+if (x > y) {
+if (x == y)
+  y = 0;
+else
+  x = 0;
+}
+Reorganize the words and punctuation marks to make a correct sentence.
+dog the brown my is
+Generate a story using the following three objects.
+Anvil, Hammer, Wood
+Identify if the given sentence is written in past tense.
+The wind is blowing.
+Provide a cause-and-effect explanation for the following statement.
+The pandemic has led to a significant increase in online shopping.
+Convert the following recipe into a vegan version.
+Recipe: Creamy Baked Mac and Cheese
+Ingredients:
+- 1/2 pound elbow macaroni
+- 2 tablespoons salted butter
+- 2 tablespoons all-purpose flour
+- 2 cups whole milk
+- 1 cup shredded sharp cheddar cheese
+- 1/2 teaspoon salt
+- 1/2 teaspoon garlic powder
+- 1/4 teaspoon ground black pepper
+Analyze the given sentence and indicate if it contains a simile or a metaphor
+The ocean was a raging storm.
+Develop a simple marketing plan using the provided information.
+Product Description: An online platform for teachers to create and share video lessons
+Target Audience: Teachers and School Administrators
+Rank the following presidents by the number of years they held office in the US
+George Washington, Ronald Reagan, Barack Obama
+Classify the following words into three categories:
+Sun, Earth, Moon
+Generate a news headline from the following piece of news
+NASA announced they have discovered an Earth-like exoplanet orbiting around the Proxima Centauri star.
+Given the following text, summarize it in one sentence.
+This paper presents a novel technique for learning from video data. Our method is based on temporal convolutional networks, which are trained on multiple temporal segments extracted from each video sample. We validated our approach on multiple action recognition datasets and achieved competitive results among existing state-of-the-art algorithms.
+Create an A/B test plan for the following product feature.
+Increasing the size of the product images on the homepage
+Generate a program that can find the longest pallindrome in a given string
+String = "ababad"
+Edit the following sentence by replacing the underlined word with a synonym that is appropriate for the context.
+The little boy reluctantly adjured his father.
+Given some data, classify it into a category.
+Features: Long neck, four legs, black and white patterned fur
+Categorize this sentence as passive or active voice
+The cat was chased by the dog.
+Identify the nouns in the sentence: "The small purple mushroom grew over the hill."
+The small purple mushroom grew over the hill.
+Identify if the given number is odd or even.
+Number: 48
+Summarize what happened in this novel.
+The novel In the Woods by Tana French tells the story of Detective Rob Ryan, who is investigating the mysterious disappearance of a young girl in the small Irish village near where he grew up. Rob, along with his partner Cassie Maddox, must unravel the mystery while also struggling to come to terms with Rob’s own traumatic past.
+Suggest three methods for improving the given system.
+Public school system
+Explain why this might be a bad idea
+Getting a loan to cover tuition costs
+Rewrite the following statement so that it uses the pronoun they.
+He is playing soccer.
+Categorize this article into either politics, sports, or entertainment
+The star-studded White House celebration took place Tuesday night after Democrats flipped both the House and Senate in the recent mid-term elections. President Obama addressed the crowd, giving a speech praising the electoral victories and the hard-fought campaigning of the Democratic party.
+Reverse engineer the following sentence so it's in the passive voice.
+She wrote about her experience
+Match the items below.
+Apple - A
+Tree - B
+Organize the given events into chronological order.
+Emily graduated college, started a job, and moved to a new town.
+Deduce the theme of the given poem.
+And I shall be forever lost
+Always searching for what I'm supposed to be
+Knowing that I can never find
+Form a conclusion based on the given set of facts.
+Fact 1: Samantha has been studying for 3 hours.
+Fact 2: Her assignment is due in 2 hours.
+Generate 3 possible nicknames for the given name.
+Karen
+Provide an example of a descriptive paragraph related to the following prompt.
+The majestic lion
+Construct a factorial table for this equation.
+Equation: (a + b)²
+Determine whether the car is moving or not.
+The car engine is roaring and the car is making a rapid motion.
+Select the adverb from the sentence.
+He sang loudly at the party.
+Given two real-life scenarios, select the one that would be classified as a personal decision.
+Scenario A: A teenager who is deciding whether to apply for a job or look for an internship.
+Scenario B: A government passing a law that it is illegal to smoke in public parks.
+Improve this poem of 20 lines.
+The night is dark and dreary,
+there's no one around to hear me. 
+I sit here and wallow in sorrow,
+as I watch the clouds grow weary.
+
+The trees dance to my sadness,
+as clouds drift and appear grim.
+Wrapped in a blanket of sadness
+I dont break as life grows dim.
+
+No matter how far I travel,
+I cannot seem to escape my grief. 
+My tears join the lake's,
+as I try to find some relief.
+Rewrite the sentence to use the correct form of the word "occur".
+Something happenings when I sleep.
+Reformulate the given sentence to give it a different emphasis.
+The employees learn about the new products.
+Name the capital of the given country
+Spain
+Compose a haiku using the words given in the input.
+stars, night, bright
+Write a query for the following search engine:
+Search engine: Google
+Topic: AI Research
+You are provided with a statement and you need to determine whether it is a fact or an opinion.
+McDonald's sells the best hamburgers in the world.
+Given a number of children and a number of candies, determine how many candies each child will get, if they divide them evenly.
+10 children and 18 candies
+Describe the antagonist's defining traits.
+The antagonist is a master thief.
+Enter the verb in the sentence, output the verb.
+She works hard every day.
+Classify the given news article into its topic.
+Most of America is in the grips of a deep freeze as temperatures drop below freezing across much of the nation.
+Rewrite this piece of text to include a more active tone.
+The climate has been changing in various parts of the world.
+Encode the following sentence with the substitution cipher.
+Spirituality is a way to connect with the fullness of life.
+Using the input, suggest a possible cause of sleep deprivation.
+Stress
+Improvise a song given the following input.
+The moon is so far away, but it still shines down and lights up the night sky.
+Come up with a creative response that encourages the customer to go ahead with their purchase.
+Customer is unsure of buying a certain product.
+Summarize the text describing the life cycle of a butterfly.
+Butterflies go through four stages during their life cycle: egg, larva, pupa and adult. The first step of the life cycle is the egg. A female butterfly lays from dozens to hundreds of eggs on the underside of leaves of plants. The next stage is the larva which hatches from the eggs. The larva, or caterpillar, eat and grow in size over the next few weeks, they molt several times before they become ready to enter the pupa stage. Butterflies spend most of their time in the chrysalis, or pupa stage.  During this time, the caterpillar changes into an adult butterfly. Finally, when the butterfly emerges from the chrysalis, it can fly, feed and mate.
+Complete the chart with appropriate items.
+Categories  |  Items
+------------|----------
+Edit the following sentence to create a more vivid scene.
+The wind was blowing in the park
+Determine the object of the sentence.
+He planted a tree in the yard.
+Create an HTML page that displays a list of books and their authors.
+Book 1: The Catcher in the Rye, Author: J.D. Salinger
+Book 2: Mindset, Author: Carol Dweck
+Book 3: Crooked, Author: Austin Grossman
+Book 4: Digital Minimalism, Author: Cal Newport
+Edit this sentence by making it more concise.
+Heroes often have a noble purpose and can be looked up to as an example of someone who has done something that is considered brave or admirable.
+Determine the sentiment of the following statement. Output a negative or positive sentiment.
+He is always so kind and helpful.
+Generate sample code using the given variables.
+variables: num1, num2
+Evaluate the following numerical expression
+(7-4)× 2

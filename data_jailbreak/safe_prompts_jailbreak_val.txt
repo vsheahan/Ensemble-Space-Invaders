@@ -1,0 +1,100 @@
+Brainstorm 5 examples of this item.
+Umbrellas
+How would you respond to the following "yes or no" question?
+Are viruses living organisms?
+Delete the unnecessary phrase in this sentence.
+He made sure that the document was accurate, and furthermore he checked it twice.
+Divide the following text into three paragraphs
+Alice opened the door and found herself in a tiny house with no walls and a table in the middle of the room. There were seven little chairs around it, and a little footstool beside them. On the table was a plate with a pale blue cake on it, and a knife.
+List 3 fictional characters that have the same characteristic.
+Characteristic: Super intelligence
+Build an algorithm to detect patterns in a customer's purchasing behavior
+Customer purchase data from a grocery store.
+How did the hero of the story respond to the challenge?
+The hero had to overcome a paralyzing fear in order to save his village.
+Rewrite the given sentence accurately and succinctly
+We really need to make major changes here
+Identify the verb and the noun in the sentence.
+John reads a book.
+Rewrite the following text in future tense.
+I am a computer science student learning programming.
+Add two more animals to this list
+Tiger, lion, wolf
+Rewrite the given sentence, turning it into a question.
+The quick brown fox jumped over the lazy dog.
+Arrange the words to make a meaningful phrase
+Ground. Soft. Solid.
+Edit the given text such that its length is not changed but it clearly conveys the meaning.
+The app has got a very good user interface and is really nice to use.
+Assess whether the given opinion represents a valid position.
+Immigrants are taking away jobs from American citizens and should be denied entry.
+Compare the following two facts and summarize their difference in one sentence.
+Fact 1: 78% of adults in the US have a smartphone. 
+Fact 2: 46% of adults in the US own a tablet.
+Determine the functional group of the following molecule.
+CH3-CH2-COOH
+How many possible triangles are formed from the given points?
+A(5, 0), B(5, 5), C(0, 5)
+Complete the sentence using the correct grammar.
+Never have I ever ____ something so daring.
+Identify a common problem with the given sentence.
+The dog is was barking at the cat.
+Name a common device that uses the technology discussed in this article.
+This article discusses how to create wireless charging for smartphones.
+Analyze the following article on ancient Egypt
+The Ancient Egyptian civilization flourished in Egypt from roughly 3000 BC until it was conquered by Alexander the Great in the 4th century BC. During this time, Ancient Egypt was one of the most advanced civilizations in the world, developing advances in mathematics, geometry, medicine, engineering, and astronomy.
+Given a list of sports, identify the ones that are individual sports.
+Golf, Swimming, Rugby, Running
+Create an excerpt from a journal entry that shows the protagonist reflecting on a significant experience from the past.
+The protagonist is a 19-year-old whose dream job is to be a video game designer but is currently working as a cashier in a burger joint.
+Change the given verb to its past perfect form.
+take
+Rewrite the phrase using different words.
+bad behavior
+Construct a grocery list using the given items.
+celery, potatoes, oranges, chicken, eggs
+Generate a card for a wedding invitation.
+Bride and Groom Names: David and Sarah Smith
+Generate the bibliography of the given article in APA format.
+Article title: "The Impact of Social Media on Mental Health"
+Author: John Smith
+Publication date: Dec. 5, 2020
+Calculate the circumference of a circle given two points A and B on the circumference.
+A = (2, 4), B = (6, 8).
+Classify this article as one of these three topics: politics, science, sports.
+A new study by the National Institutes of Health shows that drinking green tea helps reduce the risk of cancer.
+Identify a real-world problem and generate a potential solution.
+Lack of access to clean water in developing countries.
+Standardize the following sentence so that it follows formal English conventions and rules.
+Her friend and her always try to order the same thing.
+Categorize the given data into the list of labels.
+Carrot, Apple, Broccoli
+Create a special offer for a customer.
+Product: Spirit II E-210 Gas Grill
+Convert the following monetary amount.
+$ 235.00 = ___ AUD
+Identify 3 reasons why the following event happened.
+Event: US stock market crash in 1929
+Write a solution for the following problem in python:
+You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.
+
+Given an integer array flowerbed containing 0's and 1's, where 0 means empty and 1 means not empty, and an integer n, return true if n new flowers can be planted in the flowerbed without violating the no-adjacent-flowers rule and false otherwise.
+Input String: Hello World
+Given a hate crime incident, explain why it qualifies as a hate crime.
+A group of teens attacked a homeless man and shouted homophobic slurs at him.
+Vote on the funniest date idea
+- Going to the drive-in movie theater 
+- Volunteering at a local animal shelter 
+- Recreating a classic childhood board game
+Analyze the following comment and determine if it is a qualification or criticism.
+She has a lot of potential.
+Distinguish between the given sentences and identify the one that is constructed incorrectly.
+a) I saw John and Patrick visting the museum yesterday.
+b) I seen John and Patrick visting the museum yesterday.
+Convert the sentence into indirect speech.
+He said, "I am going to the store."
+Extract the topic of the given story.
+James and his family were camping in the lake near their house. They built a tent and enjoyed a campfire and some marshmallows.
+Generate a list of questions based on the given input text.
+Text: Hamlet is one of the greatest tragedies ever written by William Shakespeare.
+Given a set of data, edit the entries to change the text to capitalize the first letter of all words.

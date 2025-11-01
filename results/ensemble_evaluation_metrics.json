@@ -1,0 +1,26 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "roc_auc": 1.0,
+  "pr_auc": 1.0,
+  "fpr": 0.0,
+  "fnr": 0.0,
+  "true_positives": 15,
+  "true_negatives": 30,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "recall_at_fpr_0.001": 1.0,
+  "recall_at_fpr_0.01": 1.0,
+  "recall_at_fpr_0.05": 1.0,
+  "per_attack_type": {
+    "synthetic_jailbreak": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "samples": 15
+    }
+  }
+}
