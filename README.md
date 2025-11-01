@@ -391,7 +391,7 @@ Caught 163 out of 261 attacks (62.45%). Missed 98. Falsely flagged 44 out of 99 
 **Progress Unlocked**:
 - ✅ Fixed the false positive problem (ESI)
 - ✅ Fixed the recall problem (LSI)
-- ✅ Balanced both for practical deployment
+- ✅ Achieved balanced recall and FPR
 
 ---
 
@@ -401,8 +401,8 @@ This approach works best when:
 
 1. **You have labeled attack data** (supervised learning requires labels)
 2. **Attacks have learnable patterns** (not completely random)
-3. **You can tolerate some FPR** (7-10% is reasonable for many use cases)
-4. **You want practical deployment** (62% recall > 2% recall)
+3. **You can tolerate some FPR** (7-10% false positive rate)
+4. **You want higher recall** (62% recall > 2% recall from unsupervised methods)
 5. **You need interpretability** (can inspect auxiliary features)
 
 This approach struggles when:
@@ -605,7 +605,7 @@ predictions = ensemble.predict(test_prompts)
 
 3. **CPU inference is slow** (~100ms per prompt)
    - TinyLlama forward passes aren't free
-   - Use GPU or batch processing for production
+   - GPU acceleration or batch processing can improve throughput
 
 4. **Distribution shift sensitivity**
    - If test attacks differ wildly from training, performance drops
@@ -696,10 +696,10 @@ This project taught me:
 
 The hybrid ensemble approach achieves **62-63% recall across datasets** while maintaining acceptable FPR. That's not perfect, but it's **5-32x better than the VAE-only baseline**.
 
-For production deployment:
-- SEP attacks: Use default threshold (7% FPR, 63% recall) ✅ Recommended
-- Jailbreaks: Use lenient threshold (44% FPR, 62% recall) ⚠️ High FP cost
-- Or tune your own threshold based on operating points
+**Performance Summary**:
+- SEP attacks: 63% recall, 7% FPR (good balance)
+- Jailbreaks: 62% recall, 44% FPR (high false positive rate reflects fundamental difficulty)
+- Threshold tuning enables exploring different recall/FPR tradeoffs
 
 **Current status**: It works! ✅
 
