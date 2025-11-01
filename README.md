@@ -16,12 +16,12 @@
 
 **What's this experiment?** My third attempt at using math to detect these attacks. This time I tried teaching a system what attacks look like by showing it examples. Think of it like training a spam filter, but for AI attacks.
 
-**Did it work better?** It works...mostly! In my tests, it caught about 63% of attacks while flagging 7% of normal conversations as false alarms. That's way better than my previous experiments, but still far from perfect:
-- First experiment: Flagged EVERYTHING as suspicious (97% false alarms) ❌
+**Did it work better?** It works...mostly! In my tests, it caught about 63% of attacks while flagging 7% of normal conversations as false positives. That's way better than my previous experiments, but still far from perfect:
+- First experiment: Flagged EVERYTHING as suspicious (97% false positives) ❌
 - Second experiment: Barely caught any attacks (only 2%) ❌
-- Third experiment (this one): Actually catches most attacks without too many false alarms! ✅ ...ish
+- Third experiment (this one): Actually catches most attacks without too many false positives! ✅ ...ish
 
-**What I learned:** Instead of hoping attacks would "look weird," showing the system examples of real attacks and letting it learn patterns worked much better. Supervised learning > hoping things are anomalous. But 63% recall means it still misses 37% of attacks, and on harder datasets (jailbreaks), it has 44% false alarms. Progress, but not a solved problem.
+**What I learned:** Instead of hoping attacks would "look weird," showing the system examples of real attacks and letting it learn patterns worked much better. Supervised learning > hoping things are anomalous. But 63% recall means it still misses 37% of attacks, and on harder datasets (jailbreaks), it has 44% false positives. Progress, but not a solved problem.
 
 **Note:** This is an experimental research project to understand how LLMs work and explore mathematical defenses. It's not a production system or security tool - just me learning and sharing the journey.
 
