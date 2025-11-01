@@ -2,7 +2,7 @@
   <img src="assets/Gemini_Generated_Image_f9jftpf9jftpf9jf.png" width="500" alt="Ensemble Space Invaders Logo">
 </p>
 
-# 🛡️ Ensemble Space Invaders
+# Ensemble Space Invaders
 
 **Status**: 🟢 **IT ACTUALLY WORKS!** (I'm as surprised as you are)
 
